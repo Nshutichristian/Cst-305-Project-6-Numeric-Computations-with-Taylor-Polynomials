@@ -34,6 +34,9 @@ Each part will display a plot in a new window:
 
 ## Author
 Christian Nshuti Manzi
+
 Professor: Ricardo Citro
+
 Grand Canyon University - CST-305
+
 Summer 2025  6/14/2025
