@@ -15,10 +15,10 @@ This project is designed to numerically solve differential equations using Taylo
 - Matplotlib
 
 ## Files Included
-- `CST305_Project6_Final_Combined.py`: Full Python script combining Parts 1, 2, and 3
-- `performance_plot.png`: Graph showing computer performance over time (generated in Part 3)
+- `TaylorPolynomial Part1_2_3.py`: Full Python script combining Parts 1, 2, and 3
+- `Graphs part 1 2 and 3.dox`: Docx file that includes graphs showing Parts 1, 2 and  computer performance over time (generated in Part 3)
 - `README.md`: This file
-- `Project_Report.docx`: Documentation with problem explanation and implementation overview
+- `Documention project 6.docx`: Documentation with problem explanation and implementation overview
 
 ## How to Run
 ```bash
